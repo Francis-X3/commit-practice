@@ -1,4 +1,8 @@
 change 1 commit check
 branch commit check
 senna or schumaker
+<<<<<<< HEAD
 maxx or lewis
+=======
+dsakhfgal
+>>>>>>> 8e0df728302d7ff72e773bef87df1aa7f3d013a1
